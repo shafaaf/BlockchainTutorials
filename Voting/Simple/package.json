@@ -1,0 +1,10 @@
+{
+  "name": "VotingApp",
+  "version": "1.0.0",
+  "description": "A sample decentralized voting app",
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "solc": "^0.4.20",
+    "web3": "^0.20.1"
+  }
+}
